@@ -1,0 +1,6 @@
+Olabi | Afrocódigos | Python | Aula 10 | 13.03
+
+##################
+Exercício Fatorial
+
+

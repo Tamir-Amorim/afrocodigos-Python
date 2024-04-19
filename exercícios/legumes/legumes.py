@@ -1,0 +1,5 @@
+print('batata-doce')
+print('cenoura')
+print('abóbora')
+print('tomate')
+print('beterraba')
